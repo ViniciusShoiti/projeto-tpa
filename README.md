@@ -15,7 +15,67 @@ Outra demonstração prática sobre a lógica do fluxograma de uma forma mais si
 
 ### 📌Algoritmo (Pseudocódigo)
 Esta forma de representação de algoritmo é rica em detalhes,como a definição dos tipos das variáveis usadas no algoritmo.
-Por assemelhar-se bastante à forma em que os programas são escritos; é uma forma genérica de escrever um algoritmo, utilizando uma linguagem simples (nativa a quem o escreve,de forma a ser entendida por qualquer pessoa) sem necessidade deconhecer a sintaxe de nenhuma linguagem de programação.
+Por assemelhar-se bastante à forma em que os programas são escritos; é uma forma "genérica" de escrever um algoritmo, utilizando uma linguagem simples (nativa a quem o escreve,de forma a ser entendida por qualquer pessoa) sem necessidade deconhecer a sintaxe de nenhuma linguagem de programação.
 
-Para issso criamos uma estrutura que segue os passos lógicos, começando com o nome desse algoritmo, a declaração de variáveis, o subalgoritmo e o ínicio e fim que dentro deles se encontra o corpo do algoritmo.
+Para isso criamos uma estrutura que segue os passos lógicos, começando com o nome desse algoritmo, a declaração de variáveis, o subalgoritmo e o ínicio e fim que dentro deles se encontra o corpo do algoritmo.
 ![Captura de tela 2024-10-16 074302](https://github.com/user-attachments/assets/d8834553-5bcd-46b2-a51f-a87901c2767c)
+
+### 📌Portugol Webstudio
+Utilizamos como ferramenta de criação e ilustração desses algoritmos o uso do Portugol, no qual foi introduzido no começo de nosso ano letivo na disciplina de TPA.
+
+
+![Captura de tela 2024-11-01 092210](https://github.com/user-attachments/assets/f994dcd5-eaca-4038-951a-9a651d705355)
+
+Ele é bem intuitivo e você consegue usar ele com demasiada facilidade sem ter que se preocupar muito com códigos complicados. Sendo para mim uma das melhores ferramentas que permite você entender os algoritmos em um português estruturado de ótima qualidade.
+## 📍Tipos de Dados
+INTEIRO: qualquer número inteiro, negativo, nulo ou positivo
+
+Ex.: -15, 0, 101
+
+REAL: qualquer número real, negativo, nulo ou positivo
+
+Ex.: -1, -0.5, 0, 5, 9.5
+
+CARACTER: qualquer conjunto de caracteres alfanuméricos
+
+• Ex.: “AB”, “ 123”, “ A123”, “CASA”
+
+LÓGICO: conjunto de valores ( FALSO ou VERDADEIRO )
+
+## 📍Tipos de Dados (Portugol Webstudio)
+TipoCadeia: Armazenar em uma variável, um texto ou uma quantidade grande de caracteres.
+
+TipoCaracter: uso de símbolos, letras ou outro tipo de conteúdo.
+
+TipoInteiro: utilização de valores inteiros em um algoritmo.
+
+TipoLógico:trabalhar com informações do tipo verdadeiro e falso
+
+TipoReal :armazenar valores que não pertencem aos números inteiros.
+
+### 📌Operadores
+Os operadores são meios pelo qual incrementamos, decrementamos, comparamos e avaliamos dados dentro do computador. Temos quatro tipos de operadores:
+
+## 📍Operadores de Atribuição
+O operador de atribuição em Algoritmos é representado pela seta ou sinal de igual , indicando que algum valor será atribuído em algumavariável.
+
+dobro = num * 2
+
+soma = num1 + num 2 
+
+idade = anoAtual – anoNascimento
+
+## 📍Operadores de Aritméticos
+Permitem realizar uma operação matemática.
+
+![Captura de tela 2024-11-01 102719](https://github.com/user-attachments/assets/27a734db-5661-421f-9a5c-732742104fe7)
+
+## 📍Operadores Relacionais 
+Os operadores relacionais são utilizados para comparar caracteres, números, variáveis e expressões. Estes operadores sempre retornam valores lógicos (verdadeiro/falso, true/false ou 0/1)
+
+![Captura de tela 2024-11-01 102954](https://github.com/user-attachments/assets/7cdd566a-a593-4f21-9a41-8f9e8591aea0)
+
+## 📍Operadores Lógicos 
+Os operadores lógicos servem para combinar resultados de expressões, retornando se o resultado final é verdadeiro ou falso.
+
+![Captura de tela 2024-11-01 103056](https://github.com/user-attachments/assets/991cc89c-f235-4e9f-a64c-e7b441d701c1)
