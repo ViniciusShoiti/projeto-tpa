@@ -79,3 +79,5 @@ Os operadores relacionais são utilizados para comparar caracteres, números, va
 Os operadores lógicos servem para combinar resultados de expressões, retornando se o resultado final é verdadeiro ou falso.
 
 ![Captura de tela 2024-11-01 103056](https://github.com/user-attachments/assets/991cc89c-f235-4e9f-a64c-e7b441d701c1)
+
+### 📍Estrutura de Controle Condicional 
